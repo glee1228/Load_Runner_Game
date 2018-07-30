@@ -1,0 +1,5 @@
+﻿  GameSource.c
+c:\users\user\desktop\공부자료\sw설계기초프로젝트\swproj~1\gamesource.c(136): warning C4101: 'curPos' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\공부자료\sw설계기초프로젝트\swproj~1\gamesource.c(1516): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\user\desktop\공부자료\sw설계기초프로젝트\swproj~1\gamesource.c(1678): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  ConsoleApplication2.vcxproj -> c:\users\user\source\repos\Load_Runner_Game\Debug\ConsoleApplication2.exe
