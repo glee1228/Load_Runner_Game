@@ -1,5 +1,6 @@
 # PRISON (Load_Runner_Game)
-C-based PRISON(LoadRunner) game (SW설계기초 프로젝트)
+
+`C-based PRISON(LoadRunner) game (SW설계기초 프로젝트)`
 
 Screenshots
 ----------------
@@ -11,8 +12,10 @@ Screenshots
 
 use to play
 ----------------
-↑↓→← : 방향키 이동<br>
-z : 간수에게 스턴효과 3초<br> 
-x : 특별 간수에게 스턴효과 3초<br>
+```
+↑↓→← : 방향키 이동
+z : 간수에게 스턴효과 3초 
+x : 특별 간수에게 스턴효과 3초 
+```
+### 비밀의 열쇠를 찾아 문을 열고 다음 스테이지로 이동하세요!
 
-# 비밀의 열쇠를 찾아 문을 열고 다음 스테이지로 이동하세요!
